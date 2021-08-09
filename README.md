@@ -7,7 +7,7 @@ There are three sub modules in this phase.
 The functionality of each module is as follows:
 •	Candidate  module:  
 The candidate will logon to the software and   take his   examination.   He can also   check his previous examinations marks and his details. The candidate will get result immediately after the completion of the examination.
-The features available to the Students are:
+The features available to the candidate are:
 1.	Can view the different categories of Test available in their account.
 2.	Can change password.
 3.	Can view their marks.

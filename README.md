@@ -1,4 +1,4 @@
-# ntaproject
+# NTA project
 NTA Online Examination System
 There are three sub modules in this phase.
 •	Candidate module.

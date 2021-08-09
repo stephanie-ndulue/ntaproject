@@ -6,7 +6,7 @@ There are three sub modules in this phase.
 •	Administrator module.
 The functionality of each module is as follows:
 •	Candidate  module:  
-The candidate will logon to the software and   take his   examination.   He can also   check his previous examinations marks and his details. The candidate will get result immediately after the completion of the examination.
+The candidate will logon to the software and take his examination. He can also check his previous examinations marks and his details. The candidate will get result immediately after the completion of the examination.
 The features available to the Students are:
 1.	Can view the different categories of Test available in their account.
 2.	Can change password.
@@ -51,11 +51,6 @@ The software quality attributes are assumed as under:
 3.	Software Interfaces
 Client Side: HTML, JavaScript
 Web Server: PHP
-Mobile App: Flutter
 
 4.	Communications Interfaces
-The Customer must connect to the Internet to access the Website:
-Dialup Modem of 52 kbps
-Broadband Internet
-Dialup or Broadband Connection with a Internet Provider.
-
+The Customer must connect to the Internet to access the Website

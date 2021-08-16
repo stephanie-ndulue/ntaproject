@@ -1,3 +1,5 @@
+/*main*/
+
 .navbar {
     z-index: 1;
     background-color: #fff;
@@ -72,3 +74,6 @@ footer {
     color: #fff;
     background-color: #0e0601;
 }
+
+
+/*login page*/
